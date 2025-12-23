@@ -134,5 +134,3 @@ By the end of PixDash, contributors will have:
 
 ---
 
-
-
